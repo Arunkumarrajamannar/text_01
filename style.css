@@ -1,0 +1,40 @@
+body{
+    background-color:rgb(128,154 ,145);
+}
+
+p{
+    color:red(244, 10, 65);
+} 
+
+#body{
+    color:darkmagenta;
+    text-align-last: center;
+    direction: rtl;
+    unicode-bidi: bidi-override;
+}
+
+img{
+    vertical-align: text-top;
+}
+
+.king{
+    text-decoration-line:line-through;
+    text-decoration-color:blanchedalmond;
+    text-decoration-style: dotted;
+    text-decoration-thickness:10px;
+}
+
+h1 {
+    letter-spacing: 5px;
+}
+h2 {
+    letter-spacing: -2px;
+}
+
+h3 {
+    text-shadow: 2px 2px 5px red;   
+}
+
+h4 {
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+}
